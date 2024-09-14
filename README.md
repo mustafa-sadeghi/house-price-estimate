@@ -11,13 +11,13 @@ This project predicts house prices in Bangalore using a machine learning model. 
 - **Location Data**: Location and feature information are exported in JSON format to aid prediction applications.
 
 
-##Installation
+## Installation
 Clone the repository with `git clone https://github.com/yourusername/house-price-prediction.git`. Install dependencies with `pip install -r requirements.txt`.
 
-##Usage 
+## Usage 
 To make a prediction, load the saved model and JSON column data, then call the `predict_price()` function, providing the necessary parameters like `predict_price('Indira Nagar', 1000, 2, 2)`.
 
-##Files 
+## Files 
 `main.ipynb` - Jupyter notebook containing all the code and steps to train the model. `bangalore_home_prices_model.pickle` - Saved machine learning model. `columns.json` - JSON file with location and feature information.
 
 ## License
