@@ -17,5 +17,4 @@ This project predicts house prices in Bangalore using a machine learning model. 
 
 **Files**: `main.ipynb` - Jupyter notebook containing all the code and steps to train the model. `bangalore_home_prices_model.pickle` - Saved machine learning model. `columns.json` - JSON file with location and feature information.
 
-**License**: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
